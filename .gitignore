@@ -3,3 +3,7 @@
 
 target
 
+.vscode
+.settings
+.project
+.classpath
